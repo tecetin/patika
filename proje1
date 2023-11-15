@@ -13,7 +13,8 @@ Big-O gösterimini yazınız.
     O(n^2)
 
 Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
-    Average case: Aradığımız sayının ortada olması
+    En küçük elemanın başta olduğu bilindiği için sırayla arama devam ederek ortada 18 sayısı bulunacaktır. dolayısıyla cevap;
+        Average case: Aradığımız sayının ortada olması
 
 [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
